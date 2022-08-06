@@ -12,7 +12,7 @@ setup(
 	version=version,
 	description='Frappe App for NextCloud Backup',
 	author='Frappe',
-	author_email='developers@frappe.io',
+	author_email='info@gluecks-it.de',
 	packages=find_packages(),
 	zip_safe=False,
 	include_package_data=True,
